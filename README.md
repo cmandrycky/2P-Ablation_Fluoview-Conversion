@@ -1,2 +1,2 @@
-# 2P-Ablation_Fluoview-Convervsion
+# 2P-Ablation_Fluoview-Conversion
 For converting svg files to an Olympus Fluoview compatible format
